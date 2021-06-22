@@ -8,6 +8,11 @@ Projeto proposto ao Jhonatha Matias, consiste em criar uma API Stateless com as 
 - Docker + docker-compose
 - Ambiente Linux
 
+## Tecnologias utilizadas
+- PHP 8
+- MYSQL 8
+- Symfony 5.2
+
 #### Clone do projeto
 ```
 https://github.com/jhonathamatias/promobit-teste.git
